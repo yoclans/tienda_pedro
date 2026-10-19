@@ -5,5 +5,4 @@ Tienda de barrio en Itagüí. Don Pedro quiere llevar el control de sus producto
 ## Archivos
 
 - `productos.txt`: productos y precios.
-- `clientes.txt`: clientes frecuentes.
-  
+- `clientes.txt`: clientes frecuente
