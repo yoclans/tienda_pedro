@@ -174,12 +174,11 @@ __pycache__/
 - Guardar los datos en una base de datos.
 - Validar los precios y manejar errores cuando falten archivos o existan datos incorrectos.
 
-## 👨‍💻 Autor
+## 🛵 Domicilios
 
-**Daniel Esteban Narváez Ara**
+¡Llevamos tus compras directamente a la puerta de tu casa!
 
-Proyecto académico: Tienda Don Pedro.
-
----
+* **Horario de atención:** Lunes a Sábado de 8:00 a.m. a 8:00 p.m. (Domingos y festivos de 9:00 a.m. a 4:00 p.m.).
+* **Zona de cobertura:** Barrio Santa María, La Miel y sectores aledaños en Itagüí.
 
 *Desarrollado con Python para practicar la lectura de archivos, el manejo de datos, los ciclos, las operaciones matemáticas y el control de versiones con Git.*
