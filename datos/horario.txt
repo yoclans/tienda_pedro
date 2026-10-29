@@ -1,0 +1,7 @@
+Horario
+
+Lunes-Viernes
+7:00 AM - 9:00 PM
+
+Sabados y Domingos
+9:00 AM - 7:00 PM
